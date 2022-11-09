@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="start|center"
@@ -20,6 +21,7 @@
         android:src="@mipmap/ic_launcher" />
 
     <Button
+        android:id="@+id/button_test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/black"
