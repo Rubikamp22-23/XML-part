@@ -1,14 +1,20 @@
 package info.sanaebadi.rubikamp_3;
 
+import android.os.Bundle;
+import android.widget.Button;
+
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+public class ProfileActivity extends AppCompatActivity {
 
-public class MainActivity extends AppCompatActivity {
+    private Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.user_profile_layout);
+
     }
+
+
 }
