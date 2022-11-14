@@ -10,6 +10,13 @@
     <color name="red">#B60C0C</color>
     <color name="light_gray">#DCCFCF</color>
 
-
+    <color name="primaryColor">#d4e157</color>
+    <color name="primaryLightColor">#ffff89</color>
+    <color name="primaryDarkColor">#a0af22</color>
+    <color name="secondaryColor">#ff3d00</color>
+    <color name="secondaryLightColor">#ff7539</color>
+    <color name="secondaryDarkColor">#c30000</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
 
 </resources>
