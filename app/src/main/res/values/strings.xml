@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Rubikamp-3</string>
+    <string name="user_name">Sana Ebadi</string>
+    <string name="user_state">Online</string>
 </resources>
