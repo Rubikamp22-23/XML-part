@@ -7,6 +7,7 @@
     tools:context=".ProfileActivity">
 
     <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imageview_profile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fitsSystemWindows="true"
@@ -18,9 +19,10 @@
         android:layout_width="wrap_content"
         android:text="@string/user_name"
         android:layout_gravity="start|bottom"
-        android:textColor="@color/white"
+        android:textColor="@color/profile_text_header"
         android:textStyle="bold"
         android:textSize="@dimen/large_size"
+        android:fontFamily="@font/font_light"
         android:layout_marginBottom="@dimen/margin_4x"
         android:layout_marginStart="@dimen/margin_4x"
         android:layout_height="wrap_content"/>
