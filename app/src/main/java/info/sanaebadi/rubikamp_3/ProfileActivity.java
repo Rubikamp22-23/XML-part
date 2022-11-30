@@ -25,6 +25,10 @@ public class ProfileActivity extends AppCompatActivity {
             }
         });
 
+        imageViewProfile.setOnClickListener(view -> {
+
+        });
+
     }
 
 
